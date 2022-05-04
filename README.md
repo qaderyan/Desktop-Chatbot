@@ -26,9 +26,6 @@ Once you run the code, it will render the output similar to what shown below;
 
 
 
-Give it a star :tada:
---------------
-Did you find this information useful, then give it a star 
 
 
 Credits
